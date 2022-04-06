@@ -3079,3 +3079,395 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.06-14.44.28:693][998]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/VFX_TestB1654F974ADDEF507745B995780DEB7C.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/VFX_Test.umap'
 [2022.04.06-14.44.28:704][998]AssetCheck: New page: Asset Save: VFX_Test
 [2022.04.06-14.44.28:704][998]LogContentValidation: Display: Validating World /Game/FlyingBP/VFX/VFX_Test.VFX_Test
+[2022.04.06-14.45.02:635][500]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-14.45.02:635][500]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-14.45.30:884][642]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2022.04.06-15.58.28:256][746]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/FlyingBP/VFX/Texture/HexagonGrid.HexagonGrid
+[2022.04.06-15.58.28:405][746]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0061 seconds. Added 1 classes and 2 folders.
+[2022.04.06-15.58.31:385][994]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FlyingBP/VFX/Texture/Hesag_Grid.Hesag_Grid
+[2022.04.06-15.58.31:396][994]LogMaterial: Display: Missing cached shadermap for Hesag_Grid in PCD3D_SM5, Default, SM5 (DDC key hash: D79E9CD2CD6F431BF466C346360A09056C9B7ABF), compiling. 
+[2022.04.06-15.58.31:602][994]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.06-15.58.31:602][994]LogShaderCompilers: Display: Total job queries 3054, among them cache hits 1639 (53.67%)
+[2022.04.06-15.58.31:602][994]LogShaderCompilers: Display: Tracking 1207 distinct input hashes that result in 501 distinct outputs (41.51%)
+[2022.04.06-15.58.31:602][994]LogShaderCompilers: Display: RAM used: 2.94 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.36%
+[2022.04.06-15.58.31:602][994]LogShaderCompilers: Display: ================================================
+[2022.04.06-15.58.31:773][994]LogMaterial: Display: Missing cached shadermap for Hesag_Grid in PCD3D_SM5, Default, SM5 (DDC key hash: A7C835D5E64BF73B8BBCE7B31640B12A32443959), compiling. 
+[2022.04.06-15.58.31:787][994]LogMaterial: Display: Missing cached shadermap for Hesag_Grid in PCD3D_SM5, Default, SM5 (DDC key hash: A07E637BDB05C476C23D43A80B2E1AF67B9F7996), compiling. 
+[2022.04.06-15.58.31:791][994]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 53564D5917575BCC4E6EB13FFD367F7E298CAAC8), compiling. 
+[2022.04.06-15.58.31:802][994]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-15.58.31:802][994]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.06-15.58.31:802][994]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-15.58.31:957][996]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.04.06-15.58.31:958][996]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.04.06-15.58.31:958][996]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.04.06-15.58.31:958][996]MaterialEditorStats: Texture samplers: 3/16
+[2022.04.06-15.58.31:958][996]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.04.06-15.58.31:958][996]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.07.46:629][393]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.07.46:632][393]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.07.52:146][  6]LogSlate: Window 'CrazyKamikaze - Unreal Editor' being destroyed
+[2022.04.06-16.07.52:151][  6]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-16.07.52:254][  6]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.07.52:256][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.07.52:734][  6]LogCascade: Quitting Cascade. FXSystem=0x0000021DA8078340
+[2022.04.06-16.07.52:762][  6]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.07.52:764][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.07.52:814][  6]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-16.07.52:865][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu
+[2022.04.06-16.07.52:866][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.File
+[2022.04.06-16.07.52:866][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Window
+[2022.04.06-16.07.52:866][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Edit
+[2022.04.06-16.07.52:867][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.MainMenu.Help
+[2022.04.06-16.07.52:868][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.SourceControl
+[2022.04.06-16.07.52:869][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.Cinematics
+[2022.04.06-16.07.52:869][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton
+[2022.04.06-16.07.52:870][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingQuality
+[2022.04.06-16.07.52:870][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingDensity
+[2022.04.06-16.07.52:876][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo.LightingResolution
+[2022.04.06-16.07.52:879][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.BuildComboButton.LightingInfo
+[2022.04.06-16.07.52:881][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.EditorModes
+[2022.04.06-16.07.52:881][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.CompileComboButton
+[2022.04.06-16.07.52:881][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.LevelToolbarQuickSettings
+[2022.04.06-16.07.52:882][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar.OpenBlueprint
+[2022.04.06-16.07.52:883][  6]LogToolMenus: Warning: Menu already registered : LevelEditor.LevelEditorToolBar
+[2022.04.06-16.07.52:949][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-16.07.52:956][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-16.07.52:962][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-16.07.52:972][  6]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.06-16.07.53:278][  6]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/FlyingBP/VFX/Prefabs/Stars.Stars
+[2022.04.06-16.07.53:382][  6]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FlyingBP/VFX/Texture/Stars.Stars
+[2022.04.06-16.07.53:384][  6]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E52754703E5A14DBA1C9AFEBBAE286EBA39B3720), compiling. 
+[2022.04.06-16.07.53:450][  6]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.53:509][  6]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9EB16EDE77CE919974934669000E4F89029FDC11), compiling. 
+[2022.04.06-16.07.53:514][  6]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 65CDEA48138367DEA87AACAC9A96750683FC35F8), compiling. 
+[2022.04.06-16.07.53:518][  6]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant3Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0089287DAD6FC3B335F78FD51B823C44CDA7AF11), compiling. 
+[2022.04.06-16.07.53:550][  6]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.07.53:550][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.53:660][  7]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.07.53:803][ 10]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.06-16.07.53:803][ 10]LogShaderCompilers: Display: Total job queries 3116, among them cache hits 1655 (53.11%)
+[2022.04.06-16.07.53:803][ 10]LogShaderCompilers: Display: Tracking 1207 distinct input hashes that result in 501 distinct outputs (41.51%)
+[2022.04.06-16.07.53:803][ 10]LogShaderCompilers: Display: RAM used: 2.94 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.36%
+[2022.04.06-16.07.53:805][ 10]LogShaderCompilers: Display: ================================================
+[2022.04.06-16.07.54:819][ 80]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.04.06-16.07.54:819][ 80]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.54:835][ 81]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.07.54:835][ 81]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.07.54:919][ 88]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.04.06-16.07.54:919][ 88]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.56:240][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.04.06-16.07.56:240][145]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.56:433][145]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.06-16.07.56:433][145]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.57:168][145]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.06-16.07.57:168][145]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.07.58:295][146]MaterialEditorStats: Base pass shader: 91 instructions
+[2022.04.06-16.07.58:295][146]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 112 instructions
+[2022.04.06-16.07.58:295][146]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.04.06-16.07.58:295][146]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.07.58:295][146]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.08.06:594][819]LogUObjectHash: Compacting FUObjectHashTables data took   9.71ms
+[2022.04.06-16.08.07:860][819]LogSlate: Window 'Save Content' being destroyed
+[2022.04.06-16.08.07:932][819]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/M_Wood_Floor_Walnut_Polished24AF28F3449C1326A40FCAB6B5E5990B.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset'
+[2022.04.06-16.08.07:939][819]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/M_Wood_Walnut5DCF84FA40D5B6DA79F2ED982B612234.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/StarterContent/Materials/M_Wood_Walnut.uasset'
+[2022.04.06-16.08.07:968][819]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FlyingBP/VFX/VFX_Test.VFX_Test
+[2022.04.06-16.08.07:969][819]Cmd: MAP LOAD FILE="G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/VFX_Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.06-16.08.07:969][819]LightingResults: New page: Lighting Build
+[2022.04.06-16.08.07:971][819]LoadErrors: New page: Loading map: VFX_Test.umap
+[2022.04.06-16.08.07:978][819]LogWorld: UWorld::CleanupWorld for VFX_Test, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.08.07:981][819]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.08.07:988][819]MapCheck: New page: Map Check
+[2022.04.06-16.08.07:988][819]LightingResults: New page: Lighting Build
+[2022.04.06-16.08.07:995][819]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.06-16.08.08:010][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.04.06-16.08.08:054][819]LogAudio: Display: Audio Device (ID: 1) registered with world 'VFX_Test'.
+[2022.04.06-16.08.08:061][819]LogAIModule: Creating AISystem for world VFX_Test
+[2022.04.06-16.08.08:075][819]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.06-16.08.08:088][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.04.06-16.08.08:091][819]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.06-16.08.08:091][819]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,404ms to complete.
+[2022.04.06-16.08.08:091][819]LogFileHelpers: Loading map 'VFX_Test' took 0.123
+[2022.04.06-16.08.08:112][819]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.06-16.08.08:112][819]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.M_Wood_Floor_Walnut_Polished
+[2022.04.06-16.08.08:112][819]LogContentValidation: Display: Validating Material /Game/StarterContent/Materials/M_Wood_Walnut.M_Wood_Walnut
+[2022.04.06-16.10.47:288][683]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.04.06-16.10.47:304][683]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.04.06-16.10.50:641][ 81]LogContentBrowser: Attempting asset rename: NewMaterial -> 0
+[2022.04.06-16.10.50:645][ 81]LogContentBrowser: End creating deferred item NewMaterial
+[2022.04.06-16.10.51:704][204]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/FlyingBP/VFX/Texture/0.0
+[2022.04.06-16.10.51:705][204]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: A28E8EA25DDA5A1C7716B3F56C8CF2F8DB35C1C0), compiling. 
+[2022.04.06-16.10.51:716][204]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.51:783][204]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9F363D17CFBCE6BD4F8F9C7302CB06B44C477131), compiling. 
+[2022.04.06-16.10.51:785][204]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: A2605895D9A4279C75AA1E6D37168365D9D08193), compiling. 
+[2022.04.06-16.10.51:794][204]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.51:849][204]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.10.52:803][277]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.06-16.10.52:804][277]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.53:027][295]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.06-16.10.53:027][295]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.53:028][295]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.10.53:845][327]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.06-16.10.53:845][327]LogShaderCompilers: Display: Total job queries 3142, among them cache hits 1661 (52.86%)
+[2022.04.06-16.10.53:845][327]LogShaderCompilers: Display: Tracking 1234 distinct input hashes that result in 501 distinct outputs (40.60%)
+[2022.04.06-16.10.53:845][327]LogShaderCompilers: Display: RAM used: 2.94 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.36%
+[2022.04.06-16.10.53:845][327]LogShaderCompilers: Display: ================================================
+[2022.04.06-16.10.54:473][376]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.04.06-16.10.54:473][376]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.04.06-16.10.54:473][376]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.06-16.10.54:473][376]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.10.57:667][710]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: CC74EA9A0F266661CCACBF7D3AAFA39200AC8DB0), compiling. 
+[2022.04.06-16.10.58:340][783]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: A08A37047CA75AD703D8173178E1188A7FCE9E54), compiling. 
+[2022.04.06-16.10.58:344][783]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3029EF9803FF77FABE3B02CD7C9D0683FCDAA031), compiling. 
+[2022.04.06-16.10.58:347][783]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: BC7CC78B3FDAA5EB93F1AE2E1BA1B2F98035605E), compiling. 
+[2022.04.06-16.10.58:356][783]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.10.58:380][785]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.10.58:396][786]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.04.06-16.10.58:396][786]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.04.06-16.10.58:396][786]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.04.06-16.10.58:396][786]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.10.58:852][828]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: F4A2731F527101D1472121F84721750F3E834F30), compiling. 
+[2022.04.06-16.10.59:434][893]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6F2737F43E6FD7914B62D7706D433D8D39D81255), compiling. 
+[2022.04.06-16.10.59:437][893]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: C666604C975271C894233F457A7652162BF35B5C), compiling. 
+[2022.04.06-16.10.59:440][893]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9DE3A51E9239F664246254CC3DFDC40C3C115063), compiling. 
+[2022.04.06-16.10.59:450][893]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.10.59:476][895]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.59:491][896]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.06-16.10.59:491][896]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.10.59:491][896]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.04.06-16.10.59:491][896]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.06-16.10.59:491][896]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.10.59:491][896]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.00:022][933]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 27F16265FBC57F0B68563954A3A049777426645E), compiling. 
+[2022.04.06-16.11.00:062][935]LogShaderCompilers: Display: Submitted 9 shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.00:278][952]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.04.06-16.11.00:278][952]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.00:315][955]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.04.06-16.11.00:315][955]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.00:688][986]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: D08B1F34169758C58EBFA7A4554A37DCF637F194), compiling. 
+[2022.04.06-16.11.00:692][986]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9C585219D0D3D8FB66056FD0C663341EB48694C1), compiling. 
+[2022.04.06-16.11.00:698][986]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F6FBB3EE939E2EEBE091FAA8E38A140096D095B), compiling. 
+[2022.04.06-16.11.00:749][988]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.01:996][ 80]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.06-16.11.01:996][ 80]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.02:324][106]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.11.02:324][106]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.02:752][138]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2022.04.06-16.11.02:752][138]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.03:000][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2022.04.06-16.11.03:000][159]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.04:363][273]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.04.06-16.11.04:363][273]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.04:423][278]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2022.04.06-16.11.04:423][278]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.05:989][412]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2022.04.06-16.11.05:989][412]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.06:106][422]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2022.04.06-16.11.06:106][422]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2022.04.06-16.11.06:106][422]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.06:522][459]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.11.06:522][459]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.06:884][488]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 1BEA060A2ABFC598F2E1F04B57E8A96244D59C2D), compiling. 
+[2022.04.06-16.11.06:949][491]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.07:374][526]MaterialEditorStats: Base pass shader: 73 instructions
+[2022.04.06-16.11.07:374][526]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 94 instructions
+[2022.04.06-16.11.07:374][526]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.04.06-16.11.07:374][526]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.10:038][821]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3BCA12C58131C29320E5D3A16373C135FDA93020), compiling. 
+[2022.04.06-16.11.10:043][821]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.11.10:068][823]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.10:098][824]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.06-16.11.10:098][824]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.11.10:099][824]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.04.06-16.11.10:099][824]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.06-16.11.10:099][824]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.10:099][824]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.10:880][880]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.04.06-16.11.10:880][880]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.10:891][881]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.04.06-16.11.10:891][881]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.11:349][923]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.11.12:412][  9]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.04.06-16.11.12:412][  9]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.12:947][ 54]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.06-16.11.12:947][ 54]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.13:872][127]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.06-16.11.13:872][127]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.14:480][164]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.15:483][251]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.04.06-16.11.15:483][251]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.04.06-16.11.15:483][251]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.04.06-16.11.15:483][251]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.21:924][995]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 437D2E624F49B12290F74C0862C39B5CC8675CFC), compiling. 
+[2022.04.06-16.11.21:929][995]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.11.21:985][998]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.04.06-16.11.21:985][998]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.04.06-16.11.21:986][998]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.04.06-16.11.21:986][998]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.28:219][699]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6BF83AB88091B6C263C07F1EAC476A4365171315), compiling. 
+[2022.04.06-16.11.28:223][699]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9600A490357AA19ED1570856F8C51CDBF15A3085), compiling. 
+[2022.04.06-16.11.28:230][699]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.11.28:284][702]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.04.06-16.11.28:284][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.04.06-16.11.28:284][702]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.04.06-16.11.28:284][702]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.32:736][192]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3106FEBB66052C15A9EAEB7176CF11C93D0F5F65), compiling. 
+[2022.04.06-16.11.32:740][192]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.11.32:797][195]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.04.06-16.11.32:797][195]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.04.06-16.11.32:798][195]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.04.06-16.11.32:798][195]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.35:403][460]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 071E2ED63E48D14C85712B11CA0AC801AAAA400D), compiling. 
+[2022.04.06-16.11.35:406][460]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.11.35:460][463]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.35:475][464]MaterialEditorStats: Base pass shader: 74 instructions
+[2022.04.06-16.11.35:475][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 95 instructions
+[2022.04.06-16.11.35:475][464]MaterialEditorStats: Base pass vertex shader: 193 instructions
+[2022.04.06-16.11.35:475][464]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.38:075][756]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: A7FAB770CF20D3747DDD07B43D142B2636CC800F), compiling. 
+[2022.04.06-16.11.38:081][756]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.11.38:081][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.11.38:106][758]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.38:132][759]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.04.06-16.11.38:132][759]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2022.04.06-16.11.38:132][759]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 21
+[2022.04.06-16.11.38:132][759]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2022.04.06-16.11.38:132][759]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.38:132][759]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.39:188][836]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2022.04.06-16.11.39:188][836]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.39:224][839]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2022.04.06-16.11.39:224][839]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.40:575][954]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2022.04.06-16.11.40:575][954]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.40:898][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2022.04.06-16.11.40:899][984]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.41:119][  4]MaterialEditorStats: Texture samplers: 2/16
+[2022.04.06-16.11.41:119][  4]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.11.41:933][ 66]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.06-16.11.41:933][ 66]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.42:507][106]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.42:507][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.11.43:328][175]MaterialEditorStats: Base pass shader: 91 instructions
+[2022.04.06-16.11.43:328][175]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 112 instructions
+[2022.04.06-16.11.43:328][175]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.04.06-16.11.43:328][175]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.43:328][175]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.11.58:345][425]LogMaterialEditor: Saving and Compiling material 0
+[2022.04.06-16.11.58:954][425]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5F0C631F3A1AA5AC9A437D461BA25698F2EF0E56), compiling. 
+[2022.04.06-16.11.59:000][425]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: C34BE72A278F918DE1FA745B3DA0F32B5DDD2B3D), compiling. 
+[2022.04.06-16.11.59:136][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.04.06-16.11.59:143][425]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.59:367][425]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2022.04.06-16.11.59:367][425]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.04.06-16.11.59:367][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2022.04.06-16.11.59:450][425]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.59:460][425]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2022.04.06-16.11.59:460][425]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2022.04.06-16.11.59:460][425]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.04.06-16.11.59:460][425]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.04.06-16.11.59:479][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/VFX/Texture/0" FILE="G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Texture/0.uasset" SILENT=true
+[2022.04.06-16.11.59:485][425]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/0A9812B5D4E07D505315BB287310CF914.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Texture/0.uasset'
+[2022.04.06-16.11.59:499][425]AssetCheck: New page: Asset Save: 0
+[2022.04.06-16.11.59:499][425]LogContentValidation: Display: Validating Material /Game/FlyingBP/VFX/Texture/0.0
+[2022.04.06-16.11.59:513][425]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.11.59:513][425]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.12.01:552][617]MaterialEditorStats: Base pass shader: 91 instructions
+[2022.04.06-16.12.01:552][617]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 112 instructions
+[2022.04.06-16.12.01:552][617]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.04.06-16.12.01:552][617]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.12.01:552][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.12.06:014][102]LogContentBrowser: Deferred new asset file creation: NewParticleSystem
+[2022.04.06-16.12.06:031][102]LogContentBrowser: Creating deferred item: NewParticleSystem
+[2022.04.06-16.12.08:436][391]LogContentBrowser: Attempting asset rename: NewParticleSystem -> Wind
+[2022.04.06-16.12.08:436][391]LogContentBrowser: End creating deferred item NewParticleSystem
+[2022.04.06-16.13.18:138][859]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/FlyingBP/VFX/Prefabs/Wind.Wind
+[2022.04.06-16.26.59:364][416]LogMaterial: Display: Material /Game/FlyingBP/VFX/Texture/0.0 needed to have new flag set bUsedWithBeamTrails !
+[2022.04.06-16.26.59:366][416]LogMaterial: Display: Material /Engine/Transient.0 needed to have new flag set bUsedWithBeamTrails !
+[2022.04.06-16.26.59:368][416]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 34783D3DF712A1B13E98C797B6BF915255F8931E), compiling. 
+[2022.04.06-16.26.59:395][416]LogMaterial: Display: Missing cached shadermap for 0 in PCD3D_SM5, Default, SM5 (DDC key hash: 6A0B115C51BF6C911393C98CB9706DE3F43459F2), compiling. 
+[2022.04.06-16.26.59:454][416]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.04.06-16.26.59:455][416]MaterialEditorStats: Texture samplers: 0/16
+[2022.04.06-16.26.59:455][416]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 14
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Total job queries 3562, among them cache hits 1915 (53.76%)
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: Tracking 1337 distinct input hashes that result in 537 distinct outputs (40.16%)
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: RAM used: 3.12 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.38%
+[2022.04.06-16.26.59:469][416]LogShaderCompilers: Display: ================================================
+[2022.04.06-16.26.59:510][418]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.26.59:510][418]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.27.07:946][199]MaterialEditorStats: Base pass shader: 91 instructions
+[2022.04.06-16.27.07:946][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 112 instructions
+[2022.04.06-16.27.07:946][199]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.04.06-16.27.07:946][199]MaterialEditorStats: Texture samplers: 4/16
+[2022.04.06-16.27.07:946][199]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.04.06-16.28.46:925][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.04.06-16.28.46:935][328]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FlyingBP/VFX/VFX_Test' took 0.018
+[2022.04.06-16.28.46:936][328]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FlyingBP/VFX/Texture/0] ([1] browsable assets)...
+[2022.04.06-16.28.46:936][328]OBJ SavePackage: Finished generating thumbnails for package [/Game/FlyingBP/VFX/Texture/0]
+[2022.04.06-16.28.46:938][328]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/0_Auto9E7DE106F417351148B945AB62BFFAD96.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/Autosaves/Game/FlyingBP/VFX/Texture/0_Auto9.uasset'
+[2022.04.06-16.28.46:939][328]LogFileHelpers: Auto-saving content packages took 0.004
+[2022.04.06-16.45.06:256][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/VFX/Prefabs/Wind" FILE="G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Prefabs/Wind.uasset" SILENT=true
+[2022.04.06-16.45.06:265][833]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/WindF054D3234128D40E114E50B8792E027A.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Prefabs/Wind.uasset'
+[2022.04.06-16.45.06:282][833]AssetCheck: New page: Asset Save: Wind
+[2022.04.06-16.45.06:282][833]LogContentValidation: Display: Validating ParticleSystem /Game/FlyingBP/VFX/Prefabs/Wind.Wind
+[2022.04.06-16.45.07:018][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/VFX/Prefabs/Wind" FILE="G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Prefabs/Wind.uasset" SILENT=true
+[2022.04.06-16.45.07:023][899]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/Wind822A06D348E7C21F499C428871043B3E.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Prefabs/Wind.uasset'
+[2022.04.06-16.45.07:034][899]AssetCheck: New page: Asset Save: Wind
+[2022.04.06-16.45.07:035][899]LogContentValidation: Display: Validating ParticleSystem /Game/FlyingBP/VFX/Prefabs/Wind.Wind
+[2022.04.06-16.45.09:569][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FlyingBP/VFX/Prefabs/Wind" FILE="G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Prefabs/Wind.uasset" SILENT=true
+[2022.04.06-16.45.09:575][167]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/Wind1ED37F0B4EBDB998CA044BAA8AFA2B89.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/Prefabs/Wind.uasset'
+[2022.04.06-16.45.09:586][167]AssetCheck: New page: Asset Save: Wind
+[2022.04.06-16.45.09:586][167]LogContentValidation: Display: Validating ParticleSystem /Game/FlyingBP/VFX/Prefabs/Wind.Wind
+[2022.04.06-16.45.13:706][501]LogSlate: Window 'Wind' being destroyed
+[2022.04.06-16.45.13:714][501]LogSlate: Window 'Wind' being destroyed
+[2022.04.06-16.45.13:714][501]LogCascade: Quitting Cascade. FXSystem=0x0000021DB1022920
+[2022.04.06-16.45.13:722][501]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.45.13:722][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.45.13:768][501]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.45.13:768][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.45.13:795][501]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.45.13:795][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.45.13:814][501]LogCascade: Quitting Cascade. FXSystem=0x0000021DB0D877C0
+[2022.04.06-16.45.13:816][501]LogActorComponent: UnregisterComponent: (/Engine/Transient.FloorComponent) Not registered. Aborting.
+[2022.04.06-16.45.13:817][501]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.04.06-16.45.13:817][501]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.06-16.45.25:221][824]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-16.45.25:221][824]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.04.06-16.45.30:013][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (TemplateFloor)
+[2022.04.06-16.45.31:045][490]LogEditorViewport: Clicking Background
+[2022.04.06-16.45.44:340][ 83]LogEditorViewport: Clicking on Actor (LMB): Emitter (Wind)
+[2022.04.06-16.45.58:791][800]Cmd: DUPLICATE
+[2022.04.06-16.45.58:791][800]Cmd: ACTOR DUPLICATE
+[2022.04.06-16.45.59:328][858]Cmd: DUPLICATE
+[2022.04.06-16.45.59:328][858]Cmd: ACTOR DUPLICATE
+[2022.04.06-16.46.00:818][ 33]Cmd: TRANSACTION UNDO
+[2022.04.06-16.46.00:818][ 33]LogEditorTransaction: Undo Duplicate Actors
+[2022.04.06-16.46.01:032][ 38]Cmd: TRANSACTION UNDO
+[2022.04.06-16.46.01:032][ 38]LogEditorTransaction: Undo Duplicate Actors
+[2022.04.06-16.46.01:266][ 43]Cmd: TRANSACTION UNDO
+[2022.04.06-16.46.01:266][ 43]LogEditorTransaction: Undo Rotate Actors
+[2022.04.06-16.46.01:755][ 98]Cmd: TRANSACTION UNDO
+[2022.04.06-16.46.01:755][ 98]LogEditorTransaction: Undo Rotate Actors
+[2022.04.06-16.46.03:628][321]LogEditorViewport: Clicking on Actor (LMB): Emitter (Wind)
+[2022.04.06-16.46.47:581][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.04.06-16.46.47:593][ 70]LogSavePackage: Moving 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Saved/VFX_TestC1BE6C8746431E4D3CB402BCE6208E65.tmp' to 'G:/Travail/Ecole/LISAA/2021-2022/0.Event/Saison 2/AH/CrazyKamikaze/Content/FlyingBP/VFX/VFX_Test.umap'
+[2022.04.06-16.46.47:612][ 70]AssetCheck: New page: Asset Save: VFX_Test
+[2022.04.06-16.46.47:612][ 70]LogContentValidation: Display: Validating World /Game/FlyingBP/VFX/VFX_Test.VFX_Test
